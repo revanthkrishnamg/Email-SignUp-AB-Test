@@ -1,9 +1,5 @@
 # A/B Testing Experiment: Urban Wear Email Sign-Up Improvement
 
-## Project Overview
-
-This project focuses on an A/B testing experiment conducted for Urban Wear, a clothing brand preparing to launch its eCommerce store. The goal of the experiment was to maximize the number of email sign-ups on the brand's pre-launch page by testing whether changing the submit button color from blue to green would result in a higher sign-up rate.
-
 ## Business Objective
 
 Urban Wear's business objective was to increase the number of email sign-ups from potential customers before the official launch of the eCommerce store. The A/B test was designed to determine whether a simple UI change—switching the color of the submit button—could lead to a measurable improvement in sign-up rates.
