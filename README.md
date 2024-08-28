@@ -41,4 +41,4 @@ Urban Wear's business objective was to increase the number of email sign-ups fro
 
 Given the practical and statistical significance observed, the recommendation is to implement the green submit button on the Urban Wear pre-launch page to maximize email sign-ups.
 
-*Note: The problem statement for this exercise was by Daniel Lee.*
+*Note: The problem statement for this exercise was given by Daniel Lee.*
